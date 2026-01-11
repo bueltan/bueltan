@@ -9,7 +9,7 @@ LinkedIn: [https://www.linkedin.com/in/denis-gimenez](https://www.linkedin.com/i
 
 ## About
 
-I am a Software Engineer with a strong focus on Python backend development, microservices, and API design, with experience building robust platforms, automation frameworks, and production-grade systems.
+Strong focus on Python backend development, microservices, and API design, with experience building robust platforms, automation frameworks, and production-grade systems.
 
 Currently, I focus on developing automation and production pipeline tools for Digital Content Creation (DCC) environments. I have worked both within organizations and on independent projects, delivering workflow-oriented solutions that are actively used in real production. I am passionate about turning complex technical processes into stable, well-tested systems that teams can rely on.
 
