@@ -24,7 +24,7 @@ Currently, I focus on developing automation and production pipeline tools for Di
 An intelligent Slack application that helps users send clearer messages by refining text before delivery, adjusting tone and improving clarity.
 
 Website: [https://rephrasely.com.ar](https://rephrasely.com.ar)
-Repository: [https://github.com/startup-entity-development/DOCKAZU](https://github.com/startup-entity-development/DOCKAZU)
+Repository:[https://github.com/bueltan/rephrasely](https://github.com/bueltan/rephrasely)
 
 ---
 
